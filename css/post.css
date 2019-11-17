@@ -1,0 +1,140 @@
+.blogTite {
+    font-size: 150%;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.blogText {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-wrap: break-word;
+
+}
+.blogAuthor {
+    padding: 0px 0px 0px 2px;
+    font-family: 'Niconne', cursive;
+    font-size: 30px;
+}
+.blogContent{
+padding: 0px 70px;
+}
+#blogBody {
+        text-align: justify;
+    font-family:serif;
+    margin-top: 10px;
+}
+#like {
+    background-color: #ef3b65;
+    padding: 10px 35px;
+    color: white;
+    box-shadow:0px 3px 3px 1px #f7a1b5;
+    border-radius: 3px;
+    border: 0px;
+    margin-top: 15px;
+}
+#btn {
+    background-color: #ef3b65;
+    float: right;
+    font-size: 20px;
+    padding: 4px;
+    color: white;
+    border-radius: 2px;
+    box-shadow: 0px 3px 3px 1px #f7a1b5;
+    border: 0px;
+}
+#editing1 {
+    background-color: #ef3b65;
+    float: right;
+    font-size: 20px;
+    padding: 4px;
+    color: white;
+    border-radius: 2px;
+    box-shadow: 0px 3px 3px 1px #f7a1b5;
+    border: 0px;
+}
+#comment {
+      background-color: #ef3b65;
+    padding: 10px 30px;
+    color: white;
+    box-shadow:0px 3px 3px 1px #f7a1b5;
+    border-radius: 3px;
+    border: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+}
+#jimmi {
+    display: inline;
+}
+#txtarea {
+    width:60%;
+    margin-top: 20px;
+}
+#allcomments {
+    font-weight: 700;
+    font-size: 19px;
+    margin-top: 40px;
+}
+#listcomments {
+ background-color: #e2e4e6;
+}
+.cmntdiv {
+    padding: 20px 10px;
+    background-color: white;
+    margin-top: 15px;
+}
+.editcmnt1 {
+    width: 100%;
+    resize: none;
+}
+/* Set a style for all the remaining elements like Like button, Edit button, Comment button and so on. */
+
+
+
+
+
+
+#ntmmbr {
+    margin: 0px;
+}
+
+.close {
+    background-color:#818181;
+}
+label {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+}
+.h5,h5 {
+   font-family: 'Abel' !important;
+    font-style: normal;
+    font-weight: 1000 !important;
+    font-size: 27px !important;
+}
+#bot {
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+}
+.modal-header {
+        border-bottom: 3px solid #d2d2d2 !important;
+        margin: 0px 15px;
+}
+.modal-title{
+    text-align: center;
+    width: 100%;
+}
+.inbtn {
+    width: 100%;
+    padding: 5px;
+    margin-top: 12px;
+}
+.modal-dialog {
+    top: 10%;
+}
